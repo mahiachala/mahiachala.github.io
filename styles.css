@@ -16,5 +16,6 @@ h1{
 }
 @font-face{
 	font-family: 'Oswald';
-	url('../assets/Oswald-Regular.woff2');
+	src:
+		local('Oswald-Regular.woff2');
 }
