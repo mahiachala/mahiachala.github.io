@@ -14,7 +14,9 @@ h1{
 .font{
 	font-family: "Oswald";
 }
-@font-face{
-	font-family: "Oswald";
-	src: url("https://mahiachala.github.io/assets/Oswald-Regular.woff2";
+@font-face {
+  font-family: "Oswald";
+  src:
+    local("Oswald"), local("Oswald-Regular.woff2"),
+    url("Oswald-Regular.woff2");
 }
