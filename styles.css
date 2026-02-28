@@ -28,9 +28,16 @@ h2{
 }
 
 @font-face {
-  font-family: "Oswald";
+  font-family: "light";
   src:
-    local("Oswald"), local("Oswald-Regular.woff2"),
+    local("light"), local("Oswald-Light.woff2"),
+    url("Oswald-Light.woff2");
+}
+
+@font-face {
+  font-family: "regular";
+  src:
+    local("regular"), local("Oswald-Regular.woff2"),
     url("Oswald-Regular.woff2");
 }
 
