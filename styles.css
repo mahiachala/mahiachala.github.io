@@ -23,7 +23,7 @@
   font-family: "bold";
   src:
     local("bold"), local("Oswald-Bold.woff2"),
-    url("Oswald-Bold.woff2");
+    url("/assets/fonts/Oswald-Bold.woff2");
 }
 /*classes*/
 .light{
