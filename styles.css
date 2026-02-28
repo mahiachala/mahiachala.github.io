@@ -23,9 +23,20 @@ h2{
 	font-family: "light";
 }
 
+.bold{
+	font-family: "bold";
+}
+
 @font-face {
   font-family: "Oswald";
   src:
     local("Oswald"), local("Oswald-Regular.woff2"),
     url("Oswald-Regular.woff2");
+}
+
+@font-face {
+  font-family: "bold";
+  src:
+    local("bold"), local("Oswald-Bold.woff2"),
+    url("Oswald-Bold.woff2");
 }
