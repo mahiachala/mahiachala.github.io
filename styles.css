@@ -8,12 +8,21 @@
 }
 
 h1{
-  color: gold;
+	color: green;
 }
 
-.font{
-	font-family: "Oswald";
+h2{
+	color: lightgreen;
 }
+
+.regular{
+	font-family: "regular";
+}
+
+.light{
+	font-family: "light";
+}
+
 @font-face {
   font-family: "Oswald";
   src:
