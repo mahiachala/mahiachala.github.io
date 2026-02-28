@@ -19,7 +19,7 @@
     local("regular"), local("Oswald-Regular.woff2"),
     url("Oswald-Regular.woff2");
 }
-@font-face {
+@font-fac {
   font-family: "bold";
   src:
     local("bold"), local("Oswald-Bold.woff2"),
